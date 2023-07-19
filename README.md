@@ -1,5 +1,9 @@
 # Template de Relatório Experimental
-Este repositório disponibiliza um modelo estruturado e de fácil utilização para criar relatórios experimentais nos formatos .docx e .tex. Além disso, oferece um link para o template no Overleaf, que você pode acessar clicando aqui. O modelo conta com seções pré-formatadas, como introdução, metodologia, resultados e conclusão, o que simplifica a organização e a apresentação clara dos resultados de pesquisas e experimentos acadêmicos. Esse modelo foi desenvolvido para auxiliar estudantes da UFRB na estruturação de seus trabalhos acadêmicos de forma organizada e padronizada.
+Este repositório disponibiliza um modelo estruturado e de fácil utilização para criar relatórios experimentais nos formatos .docx e .tex. Além disso, oferece um link para o template no Overleaf, que você pode acessar clicando aqui. O modelo conta com seções pré-formatadas, como introdução, metodologia, resultados e conclusão, o que simplifica a organização e a apresentação clara dos resultados de pesquisas e experimentos acadêmicos. Esse modelo foi desenvolvido pelo Projeto Code Up para auxiliar estudantes da UFRB na estruturação de seus trabalhos acadêmicos de forma organizada e padronizada.
+
+##Atenção!
+
+Propositadamente, os campos do modelo de relatório experimental foram preenchidos com textos "Lorem Ipsum" como marcadores de posição. A responsabilidade de inserir os dados verdadeiros em cada campo cabe a vocês, antes da revisão final.
 
 ## Características
 

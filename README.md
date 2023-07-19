@@ -1,2 +1,2 @@
-# templates-relatorio
-Projeto que fornece modelo estruturado para relatórios experimentais (.docx e .tex) e link Overleaf. Inclui seções pré-formatadas (introdução, metodologia, resultados e conclusão), simplificando organização e apresentação de pesquisas e experimentos acadêmicos.
+# Template de Relatório Experimental
+Este projeto disponibiliza um modelo estruturado e de fácil utilização para criar relatórios experimentais nos formatos .docx e .tex. Além disso, oferece um link para o template no Overleaf, que você pode acessar clicando aqui. O modelo conta com seções pré-formatadas, como introdução, metodologia, resultados e conclusão, o que simplifica a organização e a apresentação clara dos resultados de pesquisas e experimentos acadêmicos.

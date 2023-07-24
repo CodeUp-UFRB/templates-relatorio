@@ -9,7 +9,7 @@ Propositadamente, os campos do modelo de relatório experimental foram preenchid
 
 - Modelo estruturado e fácil de usar.
 - Disponível em formatos .docx e .tex.
-- Link para o template no Overleaf.
+- [Link para o template no Overleaf.](https://www.overleaf.com/latex/templates/modelo-relatorio-experimental/dvzhrhyvswwg)
 - Seções pré-formatadas: Capa, Sumário, Introdução, Objetivos, Fundamentação Teórica, Materiais Utilizados, Método Experimental, Tratamento de Dados, Resultados e Conclusão
 
 ## Como usar

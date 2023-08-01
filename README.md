@@ -9,14 +9,14 @@ Propositadamente, os campos do modelo de relatório experimental foram preenchid
 
 - Modelo estruturado e fácil de usar.
 - Disponível em formatos .docx e .tex.
-- [Link para o template no Overleaf.](https://www.overleaf.com/latex/templates/modelo-relatorio-experimental/dvzhrhyvswwg)
+- [Link para o template no Overleaf](https://www.overleaf.com/latex/templates/modelo-relatorio-experimental/dvzhrhyvswwg).
 - Seções pré-formatadas: Capa, Sumário, Introdução, Objetivos, Fundamentação Teórica, Materiais Utilizados, Método Experimental, Tratamento de Dados, Resultados e Conclusão
 
 ## Como usar
 
 1. Faça o download do arquivo no formato desejado (.docx ou .tex) ou utilize o [link](https://www.overleaf.com/latex/templates/modelo-relatorio-experimental/dvzhrhyvswwg) para o template no Overleaf para acesso e edição online.
 2. Preencha as seções com os dados do seu relatório experimental.
-3. Siga as orientações contidas no nosso manual [“RELATÓRIO NOTA DEZ”.](https://drive.google.com/file/d/1vXu01Jklqp7sxNV5WzsHINWtkbtZ_mIW)
+3. Siga as orientações contidas no nosso manual [“RELATÓRIO NOTA DEZ”](https://drive.google.com/file/d/1vXu01Jklqp7sxNV5WzsHINWtkbtZ_mIW).
 
 ## Contribuindo
 
